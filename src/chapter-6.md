@@ -1,5 +1,3 @@
-Integration of AI-Based Smart Agriculture into Agricultural Systems
-===================================================================
 
 The integration of AI-based smart agriculture technologies into agricultural systems has the potential to revolutionize the way we grow crops, tend to livestock and manage our land. In this chapter, we will explore the various aspects involved in integrating AI-based smart agriculture into agricultural systems.
 

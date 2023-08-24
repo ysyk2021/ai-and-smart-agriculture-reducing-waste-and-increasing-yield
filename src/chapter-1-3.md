@@ -1,5 +1,3 @@
-Objectives and Structure of the Book
-==================================================
 
 The world's population is projected to reach 9.7 billion people by 2050, which will result in a significant increase in demand for food production. At the same time, climate change and other environmental factors are putting pressure on agriculture to become more sustainable and efficient.
 

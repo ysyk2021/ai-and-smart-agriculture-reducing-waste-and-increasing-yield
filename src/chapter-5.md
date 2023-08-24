@@ -1,5 +1,3 @@
-AI-Based Smart Agriculture Techniques and Strategies
-====================================================
 
 AI-based smart agriculture techniques and strategies offer farmers and agriculturalists an efficient, precise and sustainable approach to farming. In this chapter, we will explore the various techniques and strategies used in AI-based smart agriculture.
 

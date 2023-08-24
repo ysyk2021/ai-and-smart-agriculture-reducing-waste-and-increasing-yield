@@ -1,5 +1,3 @@
-Ethical Considerations
-======================
 
 As the use of AI-based smart agriculture techniques becomes increasingly common, it is important to ensure that these technologies are used in an ethical and responsible manner. In this chapter, we will explore the key ethical issues associated with the deployment of AI in smart agriculture and some best practices for ensuring that these technologies are used in a way that is both ethical and responsible.
 

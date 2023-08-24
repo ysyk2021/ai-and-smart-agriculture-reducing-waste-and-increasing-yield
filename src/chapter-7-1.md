@@ -1,5 +1,3 @@
-Ethical Issues Associated with the Use of AI in Smart Agriculture
-=========================================================================================
 
 As the use of AI-based smart agriculture techniques becomes increasingly common, it is important to consider the ethical issues associated with this technology. In this chapter, we will explore some of the ethical considerations that must be taken into account when using AI in smart agriculture.
 

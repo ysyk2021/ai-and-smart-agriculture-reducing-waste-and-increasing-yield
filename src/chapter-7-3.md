@@ -1,5 +1,3 @@
-Future Directions and Challenges
-========================================================
 
 As the agriculture industry continues to adopt AI-based smart agriculture, there are several ethical considerations that must be taken into account. In this chapter, we will explore some of the ethical issues related to smart agriculture and discuss future directions and challenges.
 

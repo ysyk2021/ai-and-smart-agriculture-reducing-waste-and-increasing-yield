@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Its Applications in Agriculture
-=====================================================================================
 
 Artificial intelligence (AI) has revolutionized many industries over the past few years, and agriculture is no exception. In this chapter, we will provide an overview of AI and its applications in agriculture.
 

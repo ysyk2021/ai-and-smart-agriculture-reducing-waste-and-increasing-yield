@@ -1,5 +1,3 @@
-Types of Artificial Intelligence and Their Applications in Smart Agriculture
-==========================================================================================================================
 
 Artificial intelligence (AI) is transforming the agriculture industry, helping farmers optimize resource management strategies, improve crop yields, and reduce waste. AI is a broad field, including various types of AI, each with unique applications in smart agriculture. In this chapter, we explore the types of AI and their applications in smart agriculture.
 

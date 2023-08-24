@@ -1,5 +1,3 @@
-Traditional Approaches to Agriculture
-======================================================================
 
 Before delving into smart agriculture, it's important to understand the traditional approaches to agriculture that have been practiced for centuries. In this chapter, we will provide an overview of traditional farming methods and their limitations.
 

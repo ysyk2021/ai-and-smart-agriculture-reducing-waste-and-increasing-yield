@@ -1,5 +1,3 @@
-Case Studies on the Use of AI in Smart Agriculture
-================================================================================================
 
 Artificial intelligence (AI) is playing an increasingly significant role in smart agriculture, helping farmers optimize resource management strategies, improve crop yields, and reduce waste. In this chapter, we explore case studies on the use of AI in smart agriculture.
 

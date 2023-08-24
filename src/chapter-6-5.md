@@ -1,5 +1,3 @@
-Cybersecurity and Privacy
-==============================================================================================
 
 As the use of AI-based smart agriculture becomes more widespread, cybersecurity and privacy concerns emerge as critical components for successful integration. In this chapter, we will explore how to ensure the security and privacy of agricultural data in an AI-based smart agriculture system.
 

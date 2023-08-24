@@ -1,5 +1,3 @@
-Remote Sensing and IoT Devices
-==================================================================================
 
 AI-based smart agriculture requires the collection and analysis of real-time data from remote sensing and IoT devices. This data can be used to optimize crop yields, reduce waste, and improve resource efficiency. In this chapter, we explore the key considerations and best practices for data collection and analysis in smart agriculture.
 

@@ -1,5 +1,3 @@
-Advantages and Limitations of AI in Smart Agriculture
-===================================================================================================
 
 Artificial intelligence (AI) is transforming the agriculture industry, enabling farmers to optimize crop yields, reduce waste, and minimize environmental impact. However, like any technology, AI presents both advantages and limitations in smart agriculture.
 

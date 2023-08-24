@@ -1,5 +1,3 @@
-Human-Machine Interfaces and Decision Support Systems
-==========================================================================================================================
 
 The integration of AI-based smart agriculture into agricultural systems requires the development of human-machine interfaces and decision support systems. These systems enable farmers to interact with AI technologies and make data-driven decisions that can reduce waste and increase yield. In this chapter, we explore the key considerations and best practices for integrating AI-based smart agriculture into agricultural systems.
 

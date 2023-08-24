@@ -1,5 +1,3 @@
-Artificial Intelligence in Smart Agriculture
-============================================
 
 Artificial intelligence (AI) is rapidly transforming the agriculture industry, enabling farmers to optimize resource management strategies and improve crop yields. In this chapter, we will explore the types of AI and their applications in smart agriculture, as well as the advantages and limitations of AI in farming. We will also provide case studies on the use of AI in smart agriculture.
 

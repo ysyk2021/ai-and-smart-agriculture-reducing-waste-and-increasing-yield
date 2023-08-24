@@ -1,5 +1,3 @@
-Social Media and User Behavior Tracking
-===========================================================================================
 
 Data collection and analysis are critical components of AI-based smart agriculture. In this chapter, we will explore how social media and user behavior tracking can be used to collect and analyze data in smart agriculture.
 

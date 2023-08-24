@@ -1,5 +1,3 @@
-Crop Monitoring and Disease Detection
-===========================================================================================
 
 Crop monitoring and disease detection are critical aspects of the agriculture industry. With the help of AI-based smart agriculture techniques and strategies, farmers can optimize their crop yields and reduce the risk of crop failures due to diseases. In this chapter, we will explore some of the techniques used for crop monitoring and disease detection in detail.
 

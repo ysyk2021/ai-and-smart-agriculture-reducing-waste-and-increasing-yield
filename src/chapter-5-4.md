@@ -1,5 +1,3 @@
-Livestock Management and Welfare
-======================================================================================
 
 Livestock management and welfare are critical aspects of the agriculture industry. As such, there has been an increased focus on developing AI-based smart agriculture techniques and strategies that can improve the management of livestock and ensure their welfare. In this chapter, we will explore some of these techniques in detail.
 

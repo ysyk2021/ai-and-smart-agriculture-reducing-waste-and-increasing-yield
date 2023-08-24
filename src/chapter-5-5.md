@@ -1,5 +1,3 @@
-Supply Chain Management and Logistics
-===========================================================================================
 
 Effective supply chain management and logistics are crucial for the success of smart agriculture. In this chapter, we will explore how AI-based smart agriculture techniques and strategies can be used to optimize supply chain management and logistics.
 
