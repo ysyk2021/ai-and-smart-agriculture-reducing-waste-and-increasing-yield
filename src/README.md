@@ -10,3 +10,7 @@ We cover a range of topics, from precision agriculture and farm automation to su
 By leveraging the latest technology and tools, we can unlock new levels of productivity, sustainability, and profitability while reducing waste and minimizing our impact on the environment. So, let's dive in and discover the exciting world of AI and smart agriculture, and learn how to use these powerful tools to achieve our desired outcomes and build a more sustainable future.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng

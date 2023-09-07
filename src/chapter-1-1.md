@@ -24,4 +24,4 @@ Some benefits of AI-based smart agriculture include:
 Conclusion
 ----------
 
-The need for sustainable and efficient agriculture practices has never been greater. By leveraging AI-based smart agriculture, farmers can optimize resource management, reduce waste, and increase crop yields. This leads to improved profitability and sustainable farming practices. The next chapter will provide an overview of artificial intelligence and its applications in agriculture.
+The need for sustainable and efficient agriculture practices has never been greater. By leveraging AI-based smart agriculture, farmers can optimize resource management, reduce waste, and increase crop yields. This leads to improved profitability and sustainable farming practices.

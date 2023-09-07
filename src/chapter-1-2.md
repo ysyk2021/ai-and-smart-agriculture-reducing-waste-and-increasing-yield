@@ -26,4 +26,4 @@ AI has numerous applications in agriculture, including:
 Conclusion
 ----------
 
-AI has numerous applications in agriculture, including crop health monitoring, plant disease identification, precision farming, harvesting, and soil analysis. By leveraging AI algorithms, farmers can optimize resource management, reduce waste, and increase crop yields, leading to improved profitability and sustainable farming practices. The next chapter will delve into the role of smart sensors and data analytics in smart agriculture.
+AI has numerous applications in agriculture, including crop health monitoring, plant disease identification, precision farming, harvesting, and soil analysis. By leveraging AI algorithms, farmers can optimize resource management, reduce waste, and increase crop yields, leading to improved profitability and sustainable farming practices.
