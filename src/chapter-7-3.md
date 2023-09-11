@@ -1,5 +1,4 @@
-Chapter: Future Directions and Challenges
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the future directions and challenges of AI in smart agriculture. We discuss emerging trends, innovative technologies, and potential obstacles that may shape the trajectory of AI adoption for reducing waste and increasing yield in agriculture.
 

@@ -1,5 +1,4 @@
-Chapter: Traditional Approaches to Agriculture
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the traditional approaches to agriculture and their significance in the context of AI and smart agriculture. We discuss the principles, methods, and challenges associated with conventional farming practices and highlight their relevance alongside emerging technologies.
 

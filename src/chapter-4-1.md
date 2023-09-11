@@ -1,5 +1,4 @@
-Chapter: Overview of Data Collection and Analysis for Smart Agriculture
-=======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we provide an overview of data collection and analysis techniques in the context of AI and smart agriculture. We explore how the collection and analysis of data can enable farmers to make informed decisions, optimize resource utilization, and increase yields while reducing waste.
 

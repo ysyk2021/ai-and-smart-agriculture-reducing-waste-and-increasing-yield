@@ -1,5 +1,4 @@
-Chapter: Livestock Management and Welfare
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the role of AI in livestock management and welfare within the context of smart agriculture. We discuss how artificial intelligence technologies can enhance the health, productivity, and well-being of livestock while reducing waste and improving efficiency.
 

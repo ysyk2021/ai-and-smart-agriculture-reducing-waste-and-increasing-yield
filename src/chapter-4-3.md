@@ -1,5 +1,4 @@
-Chapter: Weather and Climate Data
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the significance of weather and climate data in the context of AI and smart agriculture. We discuss how access to accurate and timely weather information can help farmers make informed decisions, optimize resource utilization, and reduce waste while increasing yields.
 

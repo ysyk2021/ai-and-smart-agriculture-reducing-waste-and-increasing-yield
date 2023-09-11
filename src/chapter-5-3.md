@@ -1,5 +1,4 @@
-Chapter: Crop Monitoring and Disease Detection
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the role of crop monitoring and disease detection in the context of AI and smart agriculture. We discuss how advanced technologies, such as remote sensing, image analysis, and machine learning, can contribute to efficient crop management, early disease detection, and ultimately reduce waste while increasing yields.
 

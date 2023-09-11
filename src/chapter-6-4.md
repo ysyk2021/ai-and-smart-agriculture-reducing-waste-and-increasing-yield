@@ -1,5 +1,4 @@
-Chapter: Human-Machine Interfaces and Decision Support Systems
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the importance of human-machine interfaces (HMIs) and decision support systems (DSS) in the context of AI and smart agriculture. We discuss how these technologies enable farmers to interact with AI systems, access valuable insights, and make informed decisions to reduce waste and increase yields.
 

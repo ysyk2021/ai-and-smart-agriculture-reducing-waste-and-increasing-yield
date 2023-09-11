@@ -1,5 +1,4 @@
-Chapter: Supply Chain Management and Logistics
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the role of AI in supply chain management and logistics within the context of smart agriculture. We discuss how artificial intelligence technologies can optimize the flow of agricultural products from farm to consumer, reduce waste, improve efficiency, and ensure traceability.
 

@@ -1,5 +1,4 @@
-Chapter: Ethical Issues Associated with the Use of AI in Smart Agriculture
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the ethical considerations and challenges associated with the use of AI in smart agriculture. We discuss the potential implications of AI technologies in areas such as data privacy, algorithmic bias, socio-economic impacts, and environmental sustainability. It is vital to address these issues to ensure responsible and equitable adoption of AI in agriculture.
 

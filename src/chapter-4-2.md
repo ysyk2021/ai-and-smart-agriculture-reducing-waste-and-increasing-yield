@@ -1,5 +1,4 @@
-Chapter: Remote Sensing and IoT Devices
-=======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the integration of remote sensing and IoT devices in the context of AI and smart agriculture. We discuss how these technologies enable farmers to gather real-time data, monitor agricultural operations, and make informed decisions to reduce waste and increase yields.
 

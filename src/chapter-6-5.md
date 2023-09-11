@@ -1,5 +1,4 @@
-Chapter: Cybersecurity and Privacy
-==================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the critical aspects of cybersecurity and privacy in the context of AI and smart agriculture. We discuss the potential vulnerabilities, threats, and measures that need to be considered to safeguard data, systems, and the privacy of stakeholders involved in smart agriculture.
 

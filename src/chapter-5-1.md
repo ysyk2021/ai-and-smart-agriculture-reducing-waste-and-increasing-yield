@@ -1,5 +1,4 @@
-Chapter: Overview of AI-based Smart Agriculture Techniques and Strategies
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we provide an overview of AI-based smart agriculture techniques and strategies that contribute to reducing waste and increasing yield. We explore how artificial intelligence is revolutionizing the agricultural industry by optimizing resource management, improving decision-making processes, and enabling precision agriculture.
 

@@ -1,5 +1,4 @@
-Chapter: Social Media and User Behavior Tracking
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the role of social media and user behavior tracking in the context of AI and smart agriculture. We discuss how these technologies can provide valuable insights into consumer preferences, market trends, and agricultural practices, ultimately contributing to waste reduction and increased yields.
 

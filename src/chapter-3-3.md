@@ -1,5 +1,4 @@
-Chapter: Case Studies on the Use of AI in Smart Agriculture
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we present case studies that highlight the successful application of AI in smart agriculture. These real-world examples demonstrate how artificial intelligence is being employed to reduce waste, increase yield, and improve sustainability in agricultural practices.
 

@@ -1,5 +1,4 @@
-Chapter: Advantages and Limitations of AI in Smart Agriculture
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we examine the advantages and limitations of using AI in smart agriculture. While artificial intelligence technologies offer numerous benefits in reducing waste and increasing yield, it is crucial to understand their limitations and potential challenges.
 

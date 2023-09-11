@@ -1,5 +1,4 @@
-Chapter: Overview of Smart Agriculture
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we provide an overview of smart agriculture and its significance in reducing waste and increasing yields through the integration of AI technologies. We explore the key components, benefits, and challenges of implementing smart agriculture systems.
 

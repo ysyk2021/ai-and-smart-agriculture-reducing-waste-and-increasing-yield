@@ -1,5 +1,4 @@
-Chapter: Cloud Computing and Big Data Analytics
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the applications of cloud computing and big data analytics in the context of AI and smart agriculture. We discuss how these technologies can enable farmers to efficiently store, process, and analyze large volumes of agricultural data, leading to reduced waste and increased yields.
 
